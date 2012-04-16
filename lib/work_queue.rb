@@ -33,9 +33,7 @@ require 'monitor'
 #  wq.join
 #
 class WorkQueue
-    
-    VERSION = "2.0.1"
-    
+
     ##
     # Creates a new work queue with the desired parameters.
     #
